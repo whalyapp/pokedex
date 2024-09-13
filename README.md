@@ -1,0 +1,4 @@
+- Replace hard coded data with API data
+- Display the evolution chain of the pokemon
+- Make the page dynamic to change pokemons based on URL
+- Make a "master" page to list all pokemons
