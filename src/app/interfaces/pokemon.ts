@@ -53,7 +53,7 @@ export interface PokemonData {
     evolution_chain: EvolutionChain;
     evolves_from_species: null | string;
     flavor_text_entries: FlavorTextEntry[];
-    form_descriptions: any[]; // If more detail is needed, define it
+    form_descriptions: any[];
     forms_switchable: boolean;
     gender_rate: number;
     genera: Genus[];

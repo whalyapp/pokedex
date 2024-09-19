@@ -9,7 +9,6 @@ const PokemonInfo: React.FC<PokemonInfoProps> = ({ data }) => {
   const {
     base_happiness,
     capture_rate,
-    color,
     flavor_text_entries,
     genera,
     generation,
