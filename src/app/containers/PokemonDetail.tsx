@@ -1,6 +1,6 @@
 import PokemonInfo from "../components/PokemonInfo";
 
-// TODO: Fetch the data from: h'ttps://pokeapi.co/api/v2/pokemon-species/1' instead
+// TODO: Fetch the data from: 'https://pokeapi.co/api/v2/pokemon-species/1' instead
 const data = {
     "base_happiness": 50,
     "capture_rate": 45,
